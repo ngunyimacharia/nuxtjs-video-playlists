@@ -15,11 +15,11 @@ export default {
             cld: null,
             player:null,
             sources:[
-                "nuxtjs-video-playlist/pexels-taryn-elliott-9116112.mp4",
                 "nuxtjs-video-playlist/production_ID_3987730.mp4",
                 "nuxtjs-video-playlist/pexels-zlatin-georgiev-7173031.mp4",
+                "nuxtjs-video-playlist/pexels-taryn-elliott-5220279.mp4",
+                "nuxtjs-video-playlist/pexels-taryn-elliott-9116112.mp4",
                 "nuxtjs-video-playlist/Pexels_Videos_1526909.mp4",
-                "nuxtjs-video-playlist/pexels-taryn-elliott-5220279.mp4"
             ]
         }
     },
